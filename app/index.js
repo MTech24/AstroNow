@@ -4,7 +4,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Globe, Image, GalleryVertical } from "lucide-react-native";
 import "./index.css";
 
-// Import your screen components
+// Import screen components
 import AstronomyPictureOfTheDay from "./src/AstronomyPictureOfTheDay";
 import MarsRoverPhotos from "./src/MarsRoverPhotos";
 import EarthPhoto from "./src/EarthPhoto";

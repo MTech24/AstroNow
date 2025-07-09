@@ -18,6 +18,14 @@ This project was built for learning and experimentation. Although the app uses N
 
 ---
 
+## Screenshots
+
+Here’s a screenshot of the AstroNow app in action:
+
+![AstroNow App Screenshot](./assets/images/screenshot.png)
+
+--
+
 ## Tech Stack
 
 - React Native (Expo)  
@@ -39,7 +47,7 @@ This project was built for learning and experimentation. Although the app uses N
     npm install
 3. Run the app
    ```bash
-   npx expo start
+   npx expo start --tunnel
    
 ## Notes
 This app is for educational purposes only.

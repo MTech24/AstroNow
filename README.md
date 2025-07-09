@@ -32,7 +32,7 @@ This project was built for learning and experimentation. Although the app uses N
 
 1. Clone the repository  
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/MTech24/AstroNow.git
    
 2. Install dependencies
     ```bash
